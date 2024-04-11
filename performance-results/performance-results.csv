@@ -1,0 +1,3 @@
+name,brName,avgTime,sem,repeats,minValue,maxValue,earliestTime,latestTime
+GH-startup,general,1606,0,1,1606,1606,"4/5/2024, 2:51:17 PM","4/5/2024, 2:51:17 PM"
+SF-startup,general,1831,0,1,1831,1831,"4/5/2024, 2:51:19 PM","4/5/2024, 2:51:19 PM"
